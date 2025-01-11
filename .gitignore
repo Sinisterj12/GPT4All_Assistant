@@ -1,0 +1,38 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local development settings
+.env
+
+# Model files and cache
+.cache/
+*.pt
+*.gguf
+
+# Audio files generated during runtime
+*.wav
+
+# Logs
+*.log
+
+# Windows specific
+Thumbs.db
+desktop.ini
